@@ -1,0 +1,16 @@
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\TestAcademico\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\TestAcademico\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\TestAcademico\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\TestAcademico\bin\Debug\TestAcademico.dll
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\TestAcademico\bin\Debug\TestAcademico.pdb
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\TestAcademico\bin\Debug\ClassLibaryAcademico.dll
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\TestAcademico\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\TestAcademico\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\TestAcademico\bin\Debug\ClassLibaryAcademico.pdb
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\TestAcademico\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\TestAcademico\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\TestAcademico\obj\Debug\TestAcademico.csproj.AssemblyReference.cache
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\TestAcademico\obj\Debug\TestAcademico.csproj.CoreCompileInputs.cache
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\TestAcademico\obj\Debug\TestAcademico.csproj.CopyComplete
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\TestAcademico\obj\Debug\TestAcademico.dll
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\TestAcademico\obj\Debug\TestAcademico.pdb
