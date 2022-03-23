@@ -1,0 +1,10 @@
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\ClassLibaryAcademico\bin\Debug\netstandard2.0\ClassLibaryAcademico.deps.json
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\ClassLibaryAcademico\bin\Debug\netstandard2.0\ClassLibaryAcademico.dll
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\ClassLibaryAcademico\bin\Debug\netstandard2.0\ClassLibaryAcademico.pdb
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\ClassLibaryAcademico\obj\Debug\netstandard2.0\ClassLibaryAcademico.csproj.AssemblyReference.cache
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\ClassLibaryAcademico\obj\Debug\netstandard2.0\ClassLibaryAcademico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\ClassLibaryAcademico\obj\Debug\netstandard2.0\ClassLibaryAcademico.AssemblyInfoInputs.cache
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\ClassLibaryAcademico\obj\Debug\netstandard2.0\ClassLibaryAcademico.AssemblyInfo.cs
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\ClassLibaryAcademico\obj\Debug\netstandard2.0\ClassLibaryAcademico.csproj.CoreCompileInputs.cache
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\ClassLibaryAcademico\obj\Debug\netstandard2.0\ClassLibaryAcademico.dll
+D:\Faculdade\5º TERMO\Class Libary\ClassLibaryAcademico\ClassLibaryAcademico\obj\Debug\netstandard2.0\ClassLibaryAcademico.pdb
